@@ -1,0 +1,15 @@
+# Environments
+venv/
+env/
+__pycache__/
+
+# Environment Variables (Keep API keys secret!)
+.env
+
+# Database/Vector DB
+chroma_db/
+*.db
+*.sqlite3
+
+# OS Files
+.DS_Store
